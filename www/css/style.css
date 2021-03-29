@@ -1,0 +1,15 @@
+#display{
+  margin-top: 1pc;
+  height: 4pc;
+  font-size: 3pc;
+  text-align: center;
+  background-color: #cdcdcd;
+  border-top-left-radius: 0.5pc; 
+  border-top-right-radius: 0.5pc;
+  border-bottom-left-radius: 0.5pc; 
+  border-bottom-right-radius: 0.5pc;  
+}
+.linha button{
+  font-size:2pc;
+}
+
